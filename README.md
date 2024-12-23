@@ -1,11 +1,11 @@
 # NaturalSpeech2 PyTorch
 
 <p align="center">
-  <img src="NaturalSpeech2.png" alt="NaturalSpeech2" style="display:block; margin:auto; width:780px;" />
+  <img src="NaturalSpeech2.png" alt="NaturalSpeech2" style="display:block; margin:auto; width:680px;" />
 </p>
 
 <p align="center">
-  <img src="NaturalSpeech2+.png" alt="NaturalSpeech2+" style="display:block; margin:auto; width:780px;" />
+  <img src="NaturalSpeech2+.png" alt="NaturalSpeech2+" style="display:block; margin:auto; width:680px;" />
 </p>
 
 PyTorch implementation of NaturalSpeech 2
