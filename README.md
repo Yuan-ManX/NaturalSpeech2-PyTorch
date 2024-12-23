@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="SoundStorm.png" alt="SoundStorm" style="display:block; margin:auto; width:780px;" />
+  <img src="NaturalSpeech2+.png" alt="NaturalSpeech2+" style="display:block; margin:auto; width:780px;" />
 </p>
 
 PyTorch implementation of NaturalSpeech 2
