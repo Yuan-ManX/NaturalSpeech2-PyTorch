@@ -1,0 +1,14 @@
+torch>=1.6
+accelerate
+beartype
+einops>=0.6.1
+ema-pytorch
+indic-num2words
+inflect
+local-attention
+num2words
+pyworld
+pydantic<2.0
+tqdm
+audiolm-pytorch>=0.30.2
+vector-quantize-pytorch>=1.4.1
